@@ -1,0 +1,31 @@
+_repo: Illustrations-of-the-Family-of-Psittacid--or-Parrotsand-on-stone_46392
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46392-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lear, Edward
+    alias: Derry Down Derry
+    birthdate: 1812
+    deathdate: 1888
+    gutenberg_agent_id: '498'
+    url: http://www.gutenberg.org/2009/agents/498
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Lear
+description: ''
+gutenberg_issued: '2014-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parrots -- Pictorial works'
+- !lcc 'QL'
+- !lcsh 'Birds -- Pictorial works'
+title: "Illustrations of the Family of Psittacidæ, or Parrots\r\nThe greater part\
+  \ of them species hitherto unfigured, containing forty-two lithographic plates,\
+  \ drawings from life, and on stone"
+url: http://www.gutenberg.org/ebooks/46392
